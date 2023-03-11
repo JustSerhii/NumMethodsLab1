@@ -1,3 +1,1 @@
-Знайти найменший корiнь нелiнiйного рiвняння (x−1)^3 + 0.5e^x = 0 методом дихотомiї, модифiкованим методом Ньютона та методом простої iтерацiї з точнiстю ε = 10^−4
-. Знайти апрiорну та апостерiорну оцiнку кiлькостi крокiв. Початковий промiжок та початкове наближення обрати однакове для обох методiв (якщо це можливо),
-порiвняти результати роботи методiв мiж собою.
+Find the smallest root of the nonlinear equation (x−1)^3 + 0.5e^x = 0 by the dichotomy method, modified Newton's method and the simple iteration method with an accuracy of ε = 10^−4 . Find the a priori and a posteriori estimate of the number of steps. Choose the same initial interval and initial approximation for both methods (if possible), compare the results of the methods.
